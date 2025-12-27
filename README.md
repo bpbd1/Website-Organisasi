@@ -51,8 +51,8 @@ Website resmi organisasi Mahasiswa Pecinta Alam (MAPALA) yang dibangun menggunak
 
 1. **Clone repository**
    ```bash
-   git clone <repository-url>
-   cd project_organisasi
+   git clone https://github.com/bpbd1/Website-Organisasi.git
+   cd Website Organisasi
    ```
 
 2. **Install dependencies**
